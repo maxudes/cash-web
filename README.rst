@@ -2,30 +2,26 @@
 
 .. contents:: Tabla de Contenidos
 
-Introducci√≥n
+Introduccion
 ============
 
-Este producto contiene un tema `Diazo`_ en Plone 4.2 para el `sitio Web de Canaima GNU/Linux`_. 
-Este permite integrar visualmente elementos del Plone CMS, redes sociales, y dem√°s aplicaciones 
-Web en una unica interfaz de usuario.
+Tema HTML realizando por `alexisc22`_.
 
-Caracter√≠sticas
+
+Por definir.
+
+Caracteristicas
 ===============
 
-- Este tema `Diazo`_ contiene los siguientes archivos de reglas:
+- Este tema contiene los siguientes caracteristicas:
 
   - Por definir.
-
-Instalacion
-===========
-Usted puede leer el archivo ``INSTALL.txt`` dentro del directorio ``docs`` de
-este paquete.
 
 Descargas
 =========
 
-Usted puede encontrar la version de desarrollo del paquete ``canaimagnulinux.web.theme``
-en el `repositorio Canaima GNU/Linux`_ en Github.com.
+Usted puede encontrar la version de desarrollo del paquete ``cash-web``
+en el `repositorio cash-web`_ en Github.com.
 
 Autor(es) Original(es)
 ======================
@@ -35,13 +31,12 @@ Autor(es) Original(es)
 Colaboraciones impresionantes
 =============================
 
-* Nombre Completo aka apodo
+* Leonardo J. Caballero G. aka macagua
 
 
 Para una lista actualizada de todo los colaboradores visite:
-https://github.com/canaimagnulinux/canaimagnulinux.web.theme/contributors
+https://github.com/maxudes/cash-web/contributors
 
-.. _Diazo: http://pypi.python.org/pypi/diazo
-.. _sitio Web de Canaima GNU/Linux: http://canaima.softwarelibre.gob.ve/
-.. _repositorio Canaima GNU/Linux: https://github.com/canaimagnulinux/canaimagnulinux.web.theme
+.. _alexisc22: http://www.oswd.org/design/preview/id/3695
+.. _repositorio cash-web: https://github.com/maxudes/cash-web
 
